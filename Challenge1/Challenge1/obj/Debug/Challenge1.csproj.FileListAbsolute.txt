@@ -1,0 +1,15 @@
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\MainWindow.g.cs
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\App.g.cs
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1_MarkupCompile.cache
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1_MarkupCompile.lref
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\MainWindow.baml
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1.g.resources
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1.Properties.Resources.resources
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.GenerateResource.Cache
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+C:\Users\Brendan\source\repos\Challenge1\Challenge1\obj\Debug\Challenge1.pdb
